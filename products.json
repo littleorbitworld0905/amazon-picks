@@ -1,0 +1,47 @@
+[
+    {
+        "id": 5,
+        "name": "Mini Portable Blender",
+        "category": "Kitchen",
+        "price": "₹999",
+        "rating": 4.7,
+        "added": "2026-07-20",
+        "affiliateLink": "https://amzn.to/yourAffiliateLink1"
+    },
+    {
+        "id": 4,
+        "name": "Automatic Soap Dispenser",
+        "category": "Home",
+        "price": "₹699",
+        "rating": 4.5,
+        "added": "2026-07-18",
+        "affiliateLink": "https://amzn.to/yourAffiliateLink2"
+    },
+    {
+        "id": 3,
+        "name": "LED Night Lamp",
+        "category": "Home",
+        "price": "₹399",
+        "rating": 4.6,
+        "added": "2026-07-15",
+        "affiliateLink": "https://amzn.to/yourAffiliateLink3"
+    },
+    {
+        "id": 2,
+        "name": "Phone Holder Stand",
+        "category": "Accessories",
+        "price": "₹299",
+        "rating": 4.4,
+        "added": "2026-07-10",
+        "affiliateLink": "https://amzn.to/yourAffiliateLink4"
+    },
+    {
+        "id": 1,
+        "name": "Wireless Bluetooth Earbuds",
+        "category": "Electronics",
+        "price": "₹1499",
+        "rating": 4.8,
+        "added": "2026-07-05",
+        "affiliateLink": "https://amzn.to/yourAffiliateLink5"
+    }
+]
