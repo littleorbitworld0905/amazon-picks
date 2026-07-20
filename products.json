@@ -1,14 +1,5 @@
 [
     {
-        "id": 5,
-        "name": "Mini Portable Blender",
-        "category": "Kitchen",
-        "price": "₹999",
-        "rating": 4.7,
-        "added": "2026-07-20",
-        "affiliateLink": "https://amzn.to/yourAffiliateLink1"
-    },
-    {
         "id": 4,
         "name": "Automatic Soap Dispenser",
         "category": "Home",
