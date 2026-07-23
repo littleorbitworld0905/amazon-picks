@@ -16,5 +16,14 @@
         "rating": 4.5,
         "added": "2026-07-21",
         "affiliateLink": "https://link.amazon/B093aOb5N"
+    },
+    {
+        "id": 3,
+        "name": "Purple Kurta Pant at Only ₹499",
+        "category": "Fashion",
+        "price": "₹499",
+        "rating": 4.1,
+        "added": "2026-07-23",
+        "affiliateLink": "https://link.amazon/B0g4JwBuV"
     }
 ]
